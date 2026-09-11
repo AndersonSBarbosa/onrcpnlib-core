@@ -1,0 +1,26 @@
+{
+  "name": "@onrcpnlib/core",
+  "version": "1.0.0",
+  "description": "Biblioteca compartilhada ONRCPN",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersonSBarbosa/onrcpnlib-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndersonSBarbosa/onrcpnlib-core/issues"
+  },
+  "homepage": "https://github.com/AndersonSBarbosa/onrcpnlib-core#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^22.20.2",
+    "typescript": "^7.0.2"
+  }
+}
